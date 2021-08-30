@@ -1,0 +1,10 @@
+## VS Code IDE
+.vscode
+.code-workspace
+
+##IntelliJ IDE
+.idea
+.out/
+
+##General files
+*.class
